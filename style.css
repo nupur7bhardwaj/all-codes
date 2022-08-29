@@ -1,0 +1,19 @@
+* {
+    border: 1px solid silver;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  .speciality {
+    margin-top: 5em;color:purple;
+  }
+  .description {
+    margin-top: 10rem; font-style: italic ;
+    font: 100; font-size: medium;
+    }
+    .BookAppointment{
+        margin-top: 10;color-scheme:
+        purple;text-transform:uppercase;
+    }
