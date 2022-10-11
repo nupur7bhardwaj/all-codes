@@ -1,0 +1,24 @@
+
+    .row {
+        border: burlywood;
+        margin: 1cm;
+        display:grid;
+    }
+    .App {
+        
+        border: 5px solid greenyellow;
+        margin:auto;
+        background-color: coral;
+        text-justify:auto;
+        
+    }
+    h2{
+    text-decoration:underline;
+    text-align:center;
+    text-transform: uppercase;
+    }
+    .TextInput label{
+        margin-right: 2cm;
+        
+    }
+   
